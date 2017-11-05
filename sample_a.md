@@ -1,10 +1,20 @@
-## Добро пожаловать на русскую секцию вики по CEV Eris!
-
-Выберете интересующий вас раздел, а так же обратите внимание на следующие ссылки:
-- Гайд для новичков. Как начать играть?
-
-|![image](https://user-images.githubusercontent.com/9161564/32142243-125c8896-bca4-11e7-9158-3d5b8f0a9cc2.png)|**Профессии**|
-|:---|:---|
-|![image](https://user-images.githubusercontent.com/9161564/32142246-2c65f16e-bca4-11e7-97a5-1465b9deb54e.png)|**Гайды**|
-|![image](https://user-images.githubusercontent.com/9161564/32142254-41f7a5a4-bca4-11e7-87e8-6b07220202ef.png)|**История**|
-|![image](https://user-images.githubusercontent.com/9161564/32142257-54437f30-bca4-11e7-8aa7-a52ba3a252a7.png)|**Антагонисты**| 
+<center><h1> Добро пожаловать на русскую секцию вики по CEV Eris!</h1></center>
+  <center><h2> Правила сервера!</h2></center>
+Выберете интересующий вас раздел, а также обратите внимание на следующие ссылки:
+<ul>
+  <li>Гайд для новичков. Как начать играть?</li>
+  <br>
+  <table width="100%" cellspacing="0" cellpadding="5" align="center">
+   <tr> 
+     <td width="200" valign="top"><b>Профессии</b></td><td width="200" valign="top"><b>Описание мира</b></td>
+   </tr>
+  <tr>
+    <td width="200" valign="top"><b>Общеигровые руководства</b></td><td width="200" valign="top"><b>Как правильно отыгрывать роль?</b></td>
+  </tr>
+  <tr>
+    <td width="200" valign="top"><b>Спецроли</b></td><td width="200" valign="top"><b>Гайды для тех, кто хочет помочь</b></td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center"> <b>Игровые режимы</b> </td>
+  </tr>
+  </table>
