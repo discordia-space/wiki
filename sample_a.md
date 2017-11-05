@@ -7,13 +7,13 @@
   <br>
   <table width="100%" cellspacing="0" cellpadding="5" align="center">
    <tr> 
-     <td width="200" valign="center"><b>Профессии</b></td><td width="200" valign="center"><b>Описание мира</b></td>
+     <td width="200" valign="center" align="center"><b>Профессии</b></td><td width="200" valign="center" align="center"><b>Описание мира</b></td>
    </tr>
   <tr>
-    <td width="200" valign="center"><b>Общеигровые руководства</b></td><td width="200" valign="center"><b>Как правильно отыгрывать роль?</b></td>
+    <td width="200" valign="center" align="center"><b>Общеигровые руководства</b></td><td width="200" valign="center" align="center"><b>Как правильно отыгрывать роль?</b></td>
   </tr>
   <tr>
-    <td width="200" valign="center"><b>Спецроли</b></td><td width="200" valign="center"><b>Гайды для тех, кто хочет помочь</b></td>
+    <td width="200" valign="center" align="center"><b>Спецроли</b></td><td width="200" valign="center" align="center"><b>Гайды для тех, кто хочет помочь</b></td>
   </tr>
   <tr>
     <td colspan=2 align="center"> <b>Игровые режимы</b> </td>
