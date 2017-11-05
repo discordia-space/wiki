@@ -1,5 +1,5 @@
 <h1> <center> Welcome to the English Wiki for CEV "Eris"! </center> </h1>
-  <h2 align="center"> <a href="https://github.com/Walfanger/wiki/blob/master/contents/ru/rules.md">Rules!</a></h2>
+  <h2 align="center"> <a href="https://github.com/Walfanger/wiki/blob/master/contents/en/rules_en.md">Rules!</a></h2>
 <br>
 Choose from these sections, and also check these links:
 <br><ul>
