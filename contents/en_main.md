@@ -1,4 +1,4 @@
-<h1> Welcome to the English Wiki for CEV "Eris"!</h1>
+<h1> <center> Welcome to the English Wiki for CEV "Eris"! </center> </h1>
   <h2 align="center"> <a href="https://github.com/Walfanger/wiki/blob/master/contents/ru/rules.md">Rules!</a></h2>
 <br>
 Choose from these sections, and also check these links:
@@ -7,6 +7,9 @@ Choose from these sections, and also check these links:
 </ul> 
   <br>
   <table width="500" cellspacing="0" cellpadding="5">
+  <tr>
+    <td colspan=2 align="center"> <b>Terminology</b> </td>
+  </tr>
    <tr> 
      <td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142243-125c8896-bca4-11e7-9158-3d5b8f0a9cc2.png"><b>Jobs</b></td><td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142254-41f7a5a4-bca4-11e7-87e8-6b07220202ef.png"><b>History & lore</b></td>
    </tr>
