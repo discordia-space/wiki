@@ -1,4 +1,4 @@
-<h1> Добро пожаловать на русскую секцию вики по CEV Eris!</h1>
+<h1 align="center"> Добро пожаловать на русскую секцию вики по CEV Eris!</h1>
   <h2 align="center"> <a href="https://github.com/Walfanger/wiki/blob/master/contents/ru/rules.md">Правила сервера!</a></h2>
 <br>
 Выберете интересующий вас раздел, а также обратите внимание на следующие ссылки:
