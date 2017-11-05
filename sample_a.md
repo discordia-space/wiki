@@ -5,7 +5,7 @@
   <li>Гайд для новичков. Как начать играть?</li>
 </ul> 
   <br>
-  <table width="100%" cellspacing="0" cellpadding="5" align="center">
+  <table align="center" width="100%" cellspacing="0" cellpadding="5">
    <tr> 
      <td width="200" valign="center" align="center"><b>Профессии</b></td><td width="200" valign="center" align="center"><b>Описание мира</b></td>
    </tr>
