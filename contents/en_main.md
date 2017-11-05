@@ -2,7 +2,6 @@
 
 Choose the section you are interested in, and also pay attention to the following links:
 - Guide for beginners. How do I start playing this?
-- [Discrod-conference for server](https://discord.gg/CTW9A3Y).
 
 |![image](https://user-images.githubusercontent.com/9161564/32142243-125c8896-bca4-11e7-9158-3d5b8f0a9cc2.png)|**Jobs**|
 |:---|:---|
