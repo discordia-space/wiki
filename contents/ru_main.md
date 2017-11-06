@@ -10,7 +10,7 @@
     <td colspan=2 align="center"> <b>Терминология</b> </td>
   </tr>
    <tr> 
-     <td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142243-125c8896-bca4-11e7-9158-3d5b8f0a9cc2.png"><b>Профессии</b></td><td width="200" valign="center" align="center"><a href="https://github.com/Walfanger/wiki/blob/master/contents/ru/rules.md"><b>Правила сервера!</b></td>
+     <td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142243-125c8896-bca4-11e7-9158-3d5b8f0a9cc2.png"><a href="https://github.com/Walfanger/wiki/blob/master/contents/ru/jobs_ru.md"><b>Профессии</b></a></td><td width="200" valign="center" align="center"><a href="https://github.com/Walfanger/wiki/blob/master/contents/ru/rules.md"><b>Правила сервера!</b></td>
    </tr>
   <tr>
     <td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142246-2c65f16e-bca4-11e7-97a5-1465b9deb54e.png"><b>Общеигровые руководства</b></td><td width="200" valign="center" align="center"><img src=https://user-images.githubusercontent.com/9161564/32142254-41f7a5a4-bca4-11e7-87e8-6b07220202ef.png><b>Описание мира</b></td>
