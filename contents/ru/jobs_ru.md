@@ -1,52 +1,52 @@
 <h1 align="center"> Список профессий: </h1>
 <ul>
-  <li><em> Ассистент </em> </li>
+  <li><em>Assistant</em> </li>
   </ul>
   <hr>
-  <ul><li><strong>Капитан</strong></li>
-  <li><strong>Старший помошник</strong></li>
+  <ul><li><strong>Captain</strong></li>
+  <li><strong>First officer</strong></li>
   </ul>
   <hr>
-  <ul><strong>Гильдия:</strong>
-  <li><em>Торговец</em></li>
-  <li>Техник</li>
-  <li>Шахтер</li>
+  <ul><strong>Guild:</strong>
+  <li><em>Merchant</em></li>
+  <li>Technician</li>
+  <li>Miner</li>
   </ul>
   <hr>
-  <ul><strong>Гражданский персонал:</strong>
-  <li>Бармен</li>
-  <li>Шеф-повар</li>
-  <li>Садовник</li>
-  <li>Актер</li>
-  <li>Уборщик</li>
-  <li>Проповедник Церкви Киберхристианства</li>
+  <ul><strong>Civilian personnel:</strong>
+  <li>Bartender</li>
+  <li>Chef</li>
+  <li>Gardener</li>
+  <li>Actor</li>
+  <li>Janitor</li>
+  <li>Cyberchristian Preacher</li>
   </ul>
   <hr>
-  <ul><strong>Лига Техномантов:</strong>
-  <li><em>Техномант-приближенный (одно из родственных слов к "extultant" ("торжествующий", "ликующий") - "ростральный", одно из значений слова "ростральный" - "расположенный ближе к переднему концу тела (в голове - к лицевой стороне)". Я предположил, что наш главный техномант является таким "приближенным" к "голове" - высоким чинам Лиги Техномантов)</em> </li>
-  <li>Техномант</li>
+  <ul><strong>Technomancer League:</strong>
+  <li><em>Technomancer Exultant</em> </li>
+  <li>Technomancer</li>
   </ul>
   <hr>
-  <ul><strong>Мёбиус</strong>:
-  <li><em>Начальник биолаборатории</em></li>
-  <li>Доктор</li>
-  <li>Химик</li>
-  <li>Психиатр</li>
-  <li>Парамедик</li>
-  <li><em>Начальник экспедиции</em></li>
-  <li>Ученый</li>
-  <li>Робототехник</li>
+  <ul><strong>Moebius:</strong>
+  <li><em>Biolab Officer</em></li>
+  <li>Doctor</li>
+  <li>Chemist</li>
+  <li>Psychiatrist</li>
+  <li>Paramedic</li>
+  <li><em>Expedition Overseer</em></li>
+  <li>Scientist</li>
+  <li>Roboticist</li>
   </ul>
   <hr>
-  <ul><strong>Айронхаммер:</strong>
-  <li><em>Командор</em></li>
-  <li>Комендор-сержант</li>
-  <li>Инспектор</li>
-  <li>Медицинский специалист</li>
-  <li>Оперативник</li>
+  <ul><strong>Ironhammer:</strong>
+  <li><em>Commander</em></li>
+  <li>Gunnery Sergeant</li>
+  <li>Inspector</li>
+  <li>Medical specialist</li>
+  <li>Operative</li>
   </ul>
   <hr>
   <ul>
-  <li>ИИ</li>
-  <li>Киборг</li>
+  <li>AI</li>
+  <li>Cyborg</li>
   </ul>
