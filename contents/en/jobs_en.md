@@ -23,7 +23,7 @@
   </ul>
   <hr>
   <ul><strong>Technomancer League:</strong>
-  <li><em>Technomancer Extultant</em> </li>
+  <li><em>Technomancer Exultant</em> </li>
   <li>Technomancer</li>
   </ul>
   <hr>
