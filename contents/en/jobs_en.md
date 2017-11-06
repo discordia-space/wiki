@@ -7,13 +7,13 @@
   <li><strong>First officer</strong></li>
   </ul>
   <hr>
-  <ul><strong>Guild:</strong><br>
+  <ul><strong>Guild:</strong>
   <li><em>Merchant</em></li>
   <li>Technician</li>
   <li>Miner</li>
   </ul>
   <hr>
-  <ul><strong>Civilian personnel:</strong><br>
+  <ul><strong>Civilian personnel:</strong>
   <li>Bartender</li>
   <li>Chef</li>
   <li>Gardener</li>
@@ -22,12 +22,12 @@
   <li>Cyberchristian Preacher</li>
   </ul>
   <hr>
-  <ul><strong>Technomancer League:</strong><br>
+  <ul><strong>Technomancer League:</strong>
   <li><em>Technomancer Exultant</em> </li>
   <li>Technomancer</li>
   </ul>
   <hr>
-  <ul><strong>Moebius:</strong><br>
+  <ul><strong>Moebius:</strong>
   <li><em>Biolab Officer</em></li>
   <li>Doctor</li>
   <li>Chemist</li>
@@ -38,7 +38,7 @@
   <li>Roboticist</li>
   </ul>
   <hr>
-  <ul><strong>Ironhammer:</strong><br>
+  <ul><strong>Ironhammer:</strong>
   <li><em>Commander</em></li>
   <li>Gunnery Sergeant</li>
   <li>Inspector</li>
