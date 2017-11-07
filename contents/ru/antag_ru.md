@@ -5,9 +5,9 @@
 </ul>
 <hr>
 <ul>
-<li></li>
-<li></li>
-<li></li>
+<li>Предатель</li>
+<li>Инквизитор</li>
+<li>Маршал</li>
 <li></li>
 <li></li>
 <li></li>
