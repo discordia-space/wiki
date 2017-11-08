@@ -19,7 +19,4 @@ Choose from these sections, and also check these links:
   <tr>
     <td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142257-54437f30-bca4-11e7-8aa7-a52ba3a252a7.png"><b><a href="en/antag_en.md">Special roles</a></b></td><td width="200" valign="center" align="center"><b><a href="en/volunteers_en.md">Guides for developers</a></b></td>
   </tr>
-  <tr>
-    <td colspan=2 align="center"> <b>Game modes</b> </td>
-  </tr>
   </table>
