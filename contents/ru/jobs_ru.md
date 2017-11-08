@@ -1,6 +1,6 @@
 <h1 align="center"> Список профессий: </h1>
 <ul>
-  <li><em>Assistant</em> </li>
+  <li><em><a href="j/assistant_ru.md">Assistant</a></em> </li>
   </ul>
   <hr>
   <ul><li><strong>Captain</strong></li>
