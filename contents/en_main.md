@@ -1,5 +1,4 @@
 <h1 align="center"> Welcome to the English Wiki for CEV "Eris"! </h1>
-
 <br>
 Choose from these sections, and also check these links:
 <br><ul>
