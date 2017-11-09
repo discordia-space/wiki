@@ -28,14 +28,14 @@
   </ul>
   <hr>
   <ul><strong>Moebius:</strong>
+  <li><em>Expedition Overseer</em></li>
+  <li>Scientist</li>
+  <li>Roboticist</li>
   <li><em>Biolab Officer</em></li>
   <li>Doctor</li>
   <li>Chemist</li>
   <li>Psychiatrist</li>
   <li>Paramedic</li>
-  <li><em>Expedition Overseer</em></li>
-  <li>Scientist</li>
-  <li>Roboticist</li>
   </ul>
   <hr>
   <ul><strong>Ironhammer:</strong>
