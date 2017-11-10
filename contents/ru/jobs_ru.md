@@ -3,7 +3,7 @@
   <li><em><a href="j/assistant_ru.md">Assistant</a></em> </li>
   </ul>
   <hr>
-  <ul><li><strong>Captain</strong></li>
+  <ul><li><strong> <a href=j/captain_ru.md>Captain</a></strong></li>
   <li><strong>First officer</strong></li>
   </ul>
   <hr>
