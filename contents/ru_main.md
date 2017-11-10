@@ -7,7 +7,7 @@
   <br>
   <table width="500" cellspacing="0" cellpadding="5">
   <tr>
-    <td colspan=2 align="center"><b><a href="ru/terms_ru.md">Терминология </a></b> </td>
+    <td colspan=2 align="center"><b><a href="ru/term_ru.md">Терминология </a></b> </td>
   </tr>
    <tr> 
      <td width="200" valign="center" align="center"><img src="https://user-images.githubusercontent.com/9161564/32142243-125c8896-bca4-11e7-9158-3d5b8f0a9cc2.png"><a href="ru/jobs_ru.md"><b>Профессии</b></a></td><td width="200" valign="center" align="center"><a href="ru/rules_ru.md"><b>Правила сервера!</b></td>
