@@ -12,7 +12,7 @@
 
 |3.  Multi accounting.|
 | :------------ |
-|This disrupts Administration's work, and punishes hard. If you want to change your account, you should agree it with the Administration. Admins can use multi accounts for their purpouses.|
+|This disrupts Administration's work, and punishes hard. If you want to change your account, you should discuss it with the Administration. Admins can use multi accounts for their purposes.|
 
 |4.  Intentional murder/isolation/infliction of grievous bodily harm without any reason.|
 | :------------ |
