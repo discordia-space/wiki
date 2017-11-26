@@ -12,7 +12,7 @@
 
 |3.  Multi accounting.|
 | :------------ |
-|This is disrupts Administration's work, and punishes hard. If you want to change your account, you should agree it with the Administration. Admins can use multi accounts for their purpouses.|
+|This disrupts Administration's work, and punishes hard. If you want to change your account, you should agree it with the Administration. Admins can use multi accounts for their purpouses.|
 
 |4.  Intentional murder/isolation/infliction of grievous bodily harm without any reason.|
 | :------------ |
@@ -27,7 +27,7 @@
 |Do not use other roles' difficult devices. Base operations, like wall dismantling, are free for all, but surgery and engine fitting could be done only by specialists. With the exception of related posts, like robotics, or Jacks-of-all-trades: scientists and RD.|
 |The crew is aware of existing of all special roles and have approximate information about their methods, but doesn't know anything about their skills and devices.|
 
-|6. Breaking the ambience.|
+|6. Breaking the emersion.|
 | :------------ |
 |Your manner of speaking must fit to your roleplaying, but not to your regular chat-behavior. Ideally, your speech should be literary as much as possible. Without any emojis, internet-slang or text-cuts: your characters are communicate by voice.|
 |Do not interrupt the setting and lore.
@@ -45,7 +45,7 @@ Talks about current round's events are banned. It's also applies to forums and o
 
 |9. Out-of-game cooperation.
 | :------------ |
-|Any out-of-game ways of communication does not allowed. This is metagame, and punished hard.
+|Any out-of-game ways of communication does not allowed. This is metagame, that will be punished hard.
 
 |10. ERP.|
 | :------------ |
