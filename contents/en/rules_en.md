@@ -27,7 +27,7 @@
 |Do not use other roles' difficult devices. Base operations, like wall dismantling, are free for all, but surgery and engine fitting could be done only by specialists. With the exception of related posts, like robotics, or Jacks-of-all-trades: scientists and RD.|
 |The crew is aware of existing of all special roles and have approximate information about their methods, but doesn't know anything about their skills and devices.|
 
-|6. Breaking the emersion.|
+|6. Breaking the immersion.|
 | :------------ |
 |Your manner of speaking must fit to your roleplaying, but not to your regular chat-behavior. Ideally, your speech should be literary as much as possible. Without any emojis, internet-slang or text-cuts: your characters are communicate by voice.|
 |Do not interrupt the setting and lore.
