@@ -1,7 +1,7 @@
 <h1 align="center"> Список общеигровых наставлений</h1>
 <hr>
 <ul>
-  <li><a href="https://github.com/discordia-space/wiki/wiki/Guide-to-Roleplaying">Как правильно отыгрывать роль?</a> — <em>возможно, самое важное руководство из всех здесь указанных. <strong>Обязательно ознакомьтесь с ним.</strong></em></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Guide-to-Roleplaying_ru">Как правильно отыгрывать роль?</a> — <em>возможно, самое важное руководство из всех здесь указанных. <strong>Обязательно ознакомьтесь с ним.</strong></em></li>
 </ul>
 <hr>
 <ul>
