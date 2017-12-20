@@ -9,7 +9,7 @@
   <hr>
   <ul><strong>Guild:</strong>
   <li><em>Merchant</em></li>
-  <li>Technician</li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Guild_technician_ru">Technician</a></li>
   <li>Miner</li>
   </ul>
   <hr>
