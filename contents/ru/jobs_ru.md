@@ -39,11 +39,11 @@
   </ul>
   <hr>
   <ul><strong>Ironhammer:</strong>
-  <li><em>Commander</em></li>
-  <li>Gunnery Sergeant</li>
-  <li>Inspector</li>
-  <li>Medical specialist</li>
-  <li>Operative</li>
+  <li><em><a href="https://github.com/discordia-space/wiki/wiki/Ironhammer_Commander_ru">Commander</a></em></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Ironhammer_GunnSarge_ru">Gunnery Sergeant</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Ironhammer_Inspector_ru">Inspector</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Ironhammer_MedSpec_ru">Medical specialist</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Ironhammer_Operative_ru">Operative</a></li>
   </ul>
   <hr>
   <ul>
