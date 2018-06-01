@@ -12,4 +12,6 @@
   <li>Руководство по строительству</li>
   <li><a href="https://github.com/discordia-space/wiki/wiki/Paperwork"> Работа с документами </a> </li>
   <li>Создание кустарного оружия</li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Guide-to-Surgery_ru">Хирургия</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Chemistry_Recipes_ru">Фармация</a></li>
 </ul>
