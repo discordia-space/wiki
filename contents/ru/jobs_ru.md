@@ -31,11 +31,11 @@
   <li><em>Expedition Overseer</em></li>
   <li>Scientist</li>
   <li>Roboticist</li>
-  <li><em>Biolab Officer</em></li>
-  <li>Doctor</li>
-  <li>Chemist</li>
-  <li>Psychiatrist</li>
-  <li>Paramedic</li>
+  <li><em><a href="https://github.com/discordia-space/wiki/wiki/Moebius_Biolab_Officer_ru">Biolab Officer</a></em></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Moebius_Doctor_ru">Doctor</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Moebius_Chemist_ru">Chemist</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Moebius_Psychiatrist_ru">Psychiatrist</a></li>
+  <li><a href="https://github.com/discordia-space/wiki/wiki/Moebius_Paramedic_ru">Paramedic</a></li>
   </ul>
   <hr>
   <ul><strong>Ironhammer:</strong>
