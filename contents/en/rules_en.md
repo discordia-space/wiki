@@ -33,8 +33,8 @@ You must have a good reason for killing another player. This can be: self-defens
 
 #### Don’t use IC the knowledge that your character don’t posses
 
-* Don't use IC any knowledge you got from outside-the-game itself. It would be strange if your character would run through the whole ship just to help someone who asked about it in OOC.
-* The crew does know about the existence of all antagonists and they have approximate information about their methods, but they don't know about certain gadget neither do they know the full list of antagonist’s abilities.
+* Do not use any OOC knowledge for IC benefit. It would be strange if your character would run through the whole ship just to help someone who asked about it in OOC.
+* The crew does know about the existence of all antagonists and they have approximate information about their methods, but they don't know about certain details neither do they know the full list of antagonist’s abilities.
 * Don’t carry your grudges from round to round, don’t kill someone just because he killed you last round, just as you shouldn’t give a full access to someone with who you are in good relations OOC. We do understand that prejudice is inevitable, but try to not get too far.
 
 #### Immersion breaking
@@ -80,7 +80,7 @@ Keep things that have reasons to be publicly open – open, keep secrets safe. B
 
 #### Never be afraid to ask for help 
 
-* If you have doubts about banning someone – ask other admins about it
+* If you have doubts about banning someone – ask other admins about it.
 * If you are a part of a sticky situation, or you have your friends being killed in a round – it could be better to let someone else resolve this situation.
 * If there is no admins around to help – whine at your head admin.
 
