@@ -84,6 +84,6 @@ Keep things that have reasons to be publicly open – open, keep secrets safe. B
 * If you are a part of a sticky situation, or you have your friends being killed in a round – it could be better to let someone else resolve this situation.
 * If there is there is no admins around to help – whine at your head admin.
 
-#### Discuss before issuing a verdict. 
+#### Discuss an incident before issuing a verdict. 
 
 If violator of the rules is on the server and he is capable to talk – do talk to him. Listen to his reasons, ask other admins or players if you want. And make sure that the violator understood why the ban is issued on him.
