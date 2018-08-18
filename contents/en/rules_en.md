@@ -1,23 +1,23 @@
-Admins applies these rules at their own discretion, and they may ignore the enforcement of specific rules if it is considered necessary.
+Admins apply these rules at their own discretion, and they may ignore the enforcement of specific rules if it is considered necessary.
 
 ---
 ## Community guidelines
 These guidelines apply only to the outside the game behavior. Discord channel, GitHub repository, OOC channel in the game etc. In game behavior is not regulated by this, but there is a small nuance – OOC ban could be transferred in game and vice versa.
 
 * It’s just a game, and we are all here to have a good time. Long-term conflicts, toxic behavior and the publication of personal information without permission are not allowed. In short – don’t be a dick.
-* NSFW and malicious content are prohibited. The content that violates Discord’s own terms of service, exactly as any other rules of platforms that we are based on are also prohibited. Let's not create problems for ourselves.
+* NSFW and malicious content is prohibited. The content that violates Discord’s own terms of service as well as any other rules of platforms that we are based on are also prohibited. Let's not create problems for ourselves.
 * Spamming is not allowed. Advertising of other communities however is allowed within reasonable limits.
-* It is forbidden to attempt to harm the community by disrupting the work of any of its platforms, whether it is attempts to somehow disable the game server or through the hacking of any systems related.
-* If it was proved that the behavior of the player on the server is only negative and its purpose is only to cause harm to the server, the player will be banned from the community forever.
-* Communicate clearly. Don’t overuse memes and don't cross the threshold of socially acceptable content.
-* If you put yourself in opposition to the entire community, then you better leave the server and look for another place to play. Otherwise, you will be forced to do so.
+* It is forbidden to harm the community by disrupting the work of any of its platforms, whether by attempting to somehow disable the game server or by hacking of any systems related to the project.
+* If it was proved that the player's behavior on the server has mainly negative impact, the player will be banned from the community forever.
+* Make your message clear. Don’t overuse memes and don't cross the threshold of socially acceptable content.
+* If you plan to antagonize the entire community, then you better leave the server and look for another place to play. Otherwise, you will be forced to do so.
 
 ---
 ## Game rules
 These rules apply only in the game itself, and enforced only by the administration of the game server.
 #### Perform your basic job duties.
 
-The engine should be up and running within an acceptable time; people should not die in the waiting room of the medical bay while the doctors are off to drink some tea, etc. Remember that the life of the whole ship depends on the work of key jobs. Heads and AI shouldn’t leave the game right after the round start. It is recommended to contact the administration if you have a “force majeure” situation.
+The engine should be up and running within an acceptable time; people should not die in the waiting room of the medical bay while the doctors are off to drink some tea, etc. Remember that the life of the whole ship depends on the work of key jobs. Heads and AI shouldn’t leave the game right after the round start. It is recommended to contact the administration if you have an emergency.
 
 #### Using of multiple alt accounts
 This greatly complicates the work of the administration, and is punished quite seriously. If you want to switch to another account, contact with the server administration. The server administration however has the right to use several accounts for its own purposes.
@@ -84,6 +84,6 @@ Keep things that have reasons to be publicly open – open, keep secrets safe. B
 * If you are a part of a sticky situation, or you have your friends being killed in a round – it could be better to let someone else resolve this situation.
 * If there is there is no admins around to help – whine at your head admin.
 
-#### Always talk before banning. 
+#### Discuss before issueing a verdict. 
 
 If violator of the rules is on the server and he is capable to talk – do talk to him. Listen to his reasons, ask other admins or players if you want. And make sure that the violator understood why the ban is issued on him.
