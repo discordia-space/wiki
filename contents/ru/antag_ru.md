@@ -8,8 +8,5 @@
 <li>Предатель</li>
 <li>Инквизитор</li>
 <li>Маршал</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+  <li><a href="/contents/ru/antagonists/Excelsior_ru.md">Террорист Эксельсиора</a></li>
 </ul>
