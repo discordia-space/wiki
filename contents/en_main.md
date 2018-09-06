@@ -2,7 +2,7 @@
 <br>
 Choose from these sections, and also check these links:
 <br><ul>
-  <li>Quick-start guide for beginners</li>
+  <li><a href="/contents/en/general/beginner's_guide_en.md">Quick-start guide for beginners </a></li>
 </ul> 
   <br>
   <table width="500" cellspacing="0" cellpadding="5">
