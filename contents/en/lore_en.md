@@ -9,4 +9,5 @@ The story which is given here is not full, and it never should be like this. Hug
 <p><ul>
   <li><a href="/contents/en/lore/lore_basics_en.md">Lore basics</a></li>
   <li><a href="/contents/en/lore/Exodus_from_the_Earth_en.md">Exodus from the Earth</a></li>
-  <ul></p>
+  <li><a href="/contents/en/lore/cev_eris_en.md">Death is our destination</a></li>
+  </ul></p>
