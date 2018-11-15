@@ -1,0 +1,12 @@
+<h1>Death is our destination</h1>
+<img src="https://i.imgur.com/BqC7jFf.png">
+
+<p>The opening of public gates to Alliance territories in 2330’s brought on the Artifact Rush. Almost every free captain of every old rattletrap with FTL engine started to thought about drop everything and rebuilt the ship, and went on a treasure hunt for those miraculous technologies of divine world, resources and weapons. These people were completely under illusions about riches, luxurious implants and life prolongation perspective.</p>
+
+<p>In their dreamings, they had forgotten about terrifying creatures and anomalies that ruined the superior civilization. They still were there, breeding and waiting for someone to awake them. But how could such an unessential detail stop poor and desperate ones, gentlemen of fortune, and daring venturers? A massive flow of expedition trips to the new territories beyond the frontier was stable for the first couple of years, and started to lower only these days. To the year 2339, main paths had already been scouted out, automatic trade stations been setted, and in addition to that, NeoTheology had spreaded its infrastructure there. There were no doubts that the mysterious intentions of these zealots will be revealed sooner or later.</p>
+
+<p>Our story begins on board of a huge bolt bucket, that conveyed prisoners, synthetic slaves, human slaves, cows, goats, and any other profitable biomaterial, between the stars. An appetancy for treasures was beyond of captain’s and crew’s control, and they tied up contracts with Moebius, NeoTheology, and Technomancers. In such a manner, these corporations received a place aboard, and ship’s company end up with a money supply enough to rebuilt the ship. Machinery and equipment were purchased and rigged up by the corporations themselves. Furthermore, they hired mercenaries from Ironhammer Security in order to assure safety of the vessel. It is noteworthy that the fact that all these corporations have embittered relationships, and even the notoriety of NeoTheology did not stop the crew from their interstellar expedition.</p>
+
+<p>That way, Cow Export Vehicle “Eris” transformed to Cosmic Exploration Vehicle “Eris”. Asters Guild, which was used to such perturbations, dealt with this and approved the dispatch. A proud ship, stuffed with giant roaches, adventurers, forgotten contraband, and extravagant furniture, is about to heave the anchor.</p>
+
+<p>Come, go aboard, if you dare, and become a part of this motley crew.</p>
