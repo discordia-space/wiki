@@ -3,7 +3,7 @@
 <p><ul>
 <li>The first thing that you need to do is to <a href="http://www.byond.com/download/">download BYOND client</a>.</li>
 <li>Then you should create your BYOND account <a href="https://secure.byond.com/Join">here</a>.</li>
-<li>Done! Now you are able to connect to the server. This can be done by adding our URL to your client's notes: click on the "Open" button on the left corner of the client, then "Games", "Add" — and write down this URL: byond://ss13.ru:2522 </li>
+<li>Done! Now you are able to connect to the server. This can be done by adding our URL to your client's notes: click on the "Open" button on the left corner of the client, then "Games", "Add" — and write down this URL: byond://5.9.12.156:2522 </li>
 </ul>
 </p>
 <p>
