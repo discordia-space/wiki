@@ -10,6 +10,7 @@
   <li>Некоторые советы по механике игрового процесса</li>
   <li>Справочник взломщика</li>
   <li>Руководство по строительству</li>
+  <li><a href="/contents/ru/g/supermatter_engine_ru.md">Работа с двигателем суперматерии</a></li>
   <li><a href="/contents/ru/g/paperwork_ru.md"> Работа с документами </a> </li>
   <li><a href="/contents/ru/g/Guide_to_Medicine_ru.md">Медицина</a></li>
   <li><a href="/contents/ru/g/Guide_to_Surgery_ru.md">Хирургия</a></li>
