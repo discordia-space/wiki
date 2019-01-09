@@ -13,7 +13,7 @@
      <td width="200" valign="center" align="center"><img src="https://i.imgur.com/ySpQRZO.png"><a href="ru/jobs_ru.md"><b>Профессии</b></a></td><td width="200" valign="center" align="center"><img src="https://i.imgur.com/jT1TdJl.png"><a href="ru/rules_ru.md"><b>Правила сервера!</b></td>
    </tr>
   <tr>
-    <td width="200" valign="center" align="center"><img src="https://i.imgur.com/snZB4ko.png"><a href="ru/general_ru.md"><b>Общеигровые руководства</b></a></td><td width="200" valign="center" align="center"><img src="https://i.imgur.com/RtDLLGQ.png"><b><a href="ru/lore_ru.md">Описание мира</a></b></td>
+    <td width="200" valign="center" align="center"><img src="https://i.imgur.com/snZB4ko.png"><a href="ru/general_ru.md"><b>Общеигровые руководства</b></a></td><td width="200" valign="center" align="center"><img src="https://i.imgur.com/RtDLLGQ.png"><b><a href="ru/lore_ru.md">Описание <br>мира</a></b></td>
   </tr>
   <tr>
     <td width="200" valign="center" align="center"><img src="https://i.imgur.com/YYXCRnk.png"><a href="ru/antag_ru.md"><b>Спецроли и антагонисты</b></a></td><td width="200" valign="center" align="center"><img src="https://i.imgur.com/Fr2Fq5H.png"><b><a href="ru/volunteers_ru.md">Гайды для тех, кто хочет помочь</a></b></td>
