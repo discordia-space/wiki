@@ -105,7 +105,7 @@
 <p><strong>RIG removal from a corpse:</strong>
 <ul>
 <li>Put the body on the operating table.</li>
-<li>By aiming on torso, use welding tool or circular saw in order to shred the RIG. </li>
+<li>By aiming on torso, use welding tool in order to shred the RIG. </li>
 <li>Remove RIG's controle module from body's back.</li>
 </ul>
 </p>
