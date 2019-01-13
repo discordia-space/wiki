@@ -8,8 +8,8 @@
   <li>Подробный гайд по управлению персонажем</li>
   <li>Средства связи и их применение</li>
   <li>Некоторые советы по механике игрового процесса</li>
-  <li>Справочник взломщика</li>
   <li>Руководство по строительству</li>
+  <li><a href="/contents/ru/g/Guide_to_Hacking_ru.md">Справочник взломщика</a></li>
   <li><a href="/contents/ru/g/supermatter_engine_ru.md">Работа с двигателем суперматерии</a></li>
   <li><a href="/contents/ru/g/paperwork_ru.md"> Работа с документами </a> </li>
   <li><a href="/contents/ru/g/Guide_to_Medicine_ru.md">Медицина</a></li>
